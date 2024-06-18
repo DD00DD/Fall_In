@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\FALLIN_Derek_Dao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD4D894-8CC8-415B-BEC8-3F5C367341A8}|FALLIN_Derek_Dao\\FALLIN_Derek_Dao.vbproj|e:\\fallin_derek_dao\\fallin_derek_dao\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{6FD4D894-8CC8-415B-BEC8-3F5C367341A8}|FALLIN_Derek_Dao\\FALLIN_Derek_Dao.vbproj|solutionrelative:fallin_derek_dao\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "E:\\FALLIN_Derek_Dao\\FALLIN_Derek_Dao\\Form1.vb",
+              "RelativeDocumentMoniker": "FALLIN_Derek_Dao\\Form1.vb",
+              "ToolTip": "E:\\FALLIN_Derek_Dao\\FALLIN_Derek_Dao\\Form1.vb [Design]",
+              "RelativeToolTip": "FALLIN_Derek_Dao\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-18T00:08:50.808Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

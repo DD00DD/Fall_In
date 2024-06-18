@@ -1,0 +1,56 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FALLIN_Derek_Dao
+</name>
+</assembly>
+<members>
+<member name="T:FALLIN_Derek_Dao.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:FALLIN_Derek_Dao.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:FALLIN_Derek_Dao.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:FALLIN_Derek_Dao.My.Resources.Resources._200w">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FALLIN_Derek_Dao.My.Resources.Resources.Best_Pip_Boy_Wallpaper_Free_Wallpaper_For_Desktop_and_Mobile_in_All_Resolutions_Free_Download_sofa_sectionals_with_chaise_lounge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FALLIN_Derek_Dao.My.Resources.Resources.ezgif_4_cfe39930c716">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FALLIN_Derek_Dao.My.Resources.Resources.ezgif_com_crop">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FALLIN_Derek_Dao.My.Resources.Resources.lg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FALLIN_Derek_Dao.My.Resources.Resources.LwIL">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
